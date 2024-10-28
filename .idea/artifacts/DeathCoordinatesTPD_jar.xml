@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="DeathCoordinatesTPD:jar">
+    <output-path>$USER_HOME$/Desktop/Plugins Minecraft/Plugins Minecraft</output-path>
+    <root id="archive" name="DeathCoordinatesTPD.jar">
+      <element id="module-output" name="DeathCoordinatesTPD" />
+    </root>
+  </artifact>
+</component>

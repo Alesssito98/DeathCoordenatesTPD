@@ -1,0 +1,13 @@
+# Info:
+
+# This plugin allows an admin or command block to tp to the last position where a player died.
+# Also fixes a strange bug where players would not respawn at their respawn point.
+
+config:
+
+  #When a player tp to the last death location shows a message
+  #You can change it
+  #If enable is true, the plug sends the message, if enable is false, it does not send the message.
+  message:
+    tpMessage: "&6WHOOSH"
+    enable: true

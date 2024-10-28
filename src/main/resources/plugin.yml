@@ -1,0 +1,29 @@
+# Comands:
+
+commands:
+  deathcoordinatesalex:
+    description: Main command;
+    aliases:
+      - tpd
+
+# Aditional info:
+
+# Main class location
+
+main: org.example.DeathCoordinatesTPD
+
+# Plugin version
+
+version: 0.0.1
+
+# Plugin name
+
+name: DeathCoordinatesTPD
+
+# Author (Minecraft name)
+
+author: DiosAlex
+
+# Api version
+
+api-version: 1.21.1-R0.1
